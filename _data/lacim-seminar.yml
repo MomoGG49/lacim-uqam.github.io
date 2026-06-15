@@ -1,3 +1,12 @@
+- speaker: Alexis Leroux-Lapierre
+  affiliation: McGill University
+  title: Structure de la catégorie O décalée
+  date: 2026-06-19
+  abstract: > 
+    Hernandez-Leclerc ont introduit en 2009 la notion de catégorification monoïdale d'une algèbre amassée. Ce concept a permis de réinterpréter plusieurs systèmes d'équations issus de la physique mathématique comme des mutations et a profondément influencé le développement de la théorie des représentations. Geiss-Hernandez-Leclerc (2024) ont formulé une série de conjectures selon lesquelles la catégorie O décalée (une catégorie de représentations associée à une certaine généralisation des groupes quantiques) constitue un exemple de catégorification monoïdale. Récemment, nous avons accompli les premières étapes de la démonstration de ces conjectures. Au cours de cet exposé, nous présenterons plusieurs objets géométriques et combinatoires intervenant dans notre travail ainsi que leur rôle dans l'étude de la catégorie O décalée. 
+    Cet exposé est basé sur des travaux en collaboration avec Artem Kalmykov, Joel Kamnitzer, Antoine Labelle, Théo Pinet et Alex Weekes.
+    
+    
 - speaker: Mohammad Bardestani
   affiliation: John Abbott College
   title: Chromatic Quasisymmetric Functions and Counting Matrices in Nilpotent Hessenberg Lie Algebras
