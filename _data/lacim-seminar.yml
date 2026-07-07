@@ -1,3 +1,12 @@
+- speaker: Dave Anderson
+  affiliation: Ohio State University
+  title: Computing specialized Schubert polynomials
+  date: 2026-07-11
+  abstract: >
+    Schubert polynomials, introduced by Lascoux and Schutzenberger in 1982 as models for Schubert classes in the cohomology of flag manifolds, now count among the key characters in algebraic combinatorics.  These polynomials S_w(x1, x2, .. ) are indexed by permutations w; in addition to their origins in enumerative geometry, they admit many wonderful combinatorial descriptions.
+    In this talk, I’ll discuss the integers N_w = S_w(1, 1, .. ) obtained by setting all variables equal to 1 in a Schubert polynomial.  About 10 years ago, in two apparently unrelated contexts, Merzon-Smirnov and Stanley asked about the maximum value of N_w, for w in the group of permutations of [n], and about the asymptotics of this value as n grows.  Morales-Pak-Panova addressed these questions for a special class of “layered permutations”, and gave precise asymptotic formulas in this case.  In general, however, computational barriers make exhaustive search intractable already around n=15.  I’ll explain how recent work with Panova and Petrov on (bumpless) pipe-dream sampling led us to find non-layered permutations with large N_w, why we think that the asymptotics may nonetheless be captured by layered permutations, and the extent to which new AI tools did or didn’t help us.
+    
+    
 - speaker: Alexis Leroux-Lapierre
   affiliation: McGill University
   title: Structure de la catégorie O décalée
