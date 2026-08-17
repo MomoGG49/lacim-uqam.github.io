@@ -1,15 +1,15 @@
 - speaker: Ian Cavey
-   affiliation: UMass Amherst
-   title: Polytopes associated to divisors on $\overline{M_{0,n}}$.
-   date: 2026-08-21
-   abstract: > 
-        The moduli space $\overline{M_{0,n}}$ parametrizes isomorphism classes of stable, rational curves with n marked points. 
-        Every divisor class on $\overline{M_{0,n}}$ can be expressed (non-uniquely) as a linear combination of the classes of the boundary 
-        divisors on $\overline{M_{0,n}}$. For any fixed divisor class D, the set of all expressions for D as a nonnegative (real) linear 
-        combination of classes of boundary divisors naturally forms a polytope. In this talk, I will explain how, for various divisor classes D, 
-        the combinatorics of these polytopes is related to spanning trees, perfect matchings, and Hamiltonian cycles on complete graphs. 
-        These connections give new combinatorial expressions for several divisor classes on M0n bar and have applications to the study of Newton-Okounkov 
-        bodies on $\overline{M_{0,n}}$. This talk is based on joint work with Deniz Genlik.
+  affiliation: UMass Amherst
+  title: Polytopes associated to divisors on $\overline{M_{0,n}}$.
+  date: 2026-08-21
+  abstract: > 
+    The moduli space $\overline{M_{0,n}}$ parametrizes isomorphism classes of stable, rational curves with $n$ marked points. 
+    Every divisor class on $\overline{M_{0,n}}$ can be expressed (non-uniquely) as a linear combination of the classes of the boundary 
+    divisors on $\overline{M_{0,n}}$. For any fixed divisor class $D$, the set of all expressions for $D$ as a nonnegative (real) linear 
+    combination of classes of boundary divisors naturally forms a polytope. In this talk, I will explain how, for various divisor classes $D$, 
+    the combinatorics of these polytopes is related to spanning trees, perfect matchings, and Hamiltonian cycles on complete graphs. 
+    These connections give new combinatorial expressions for several divisor classes on $\overline{M_{0,n}}$ and have applications to the study of Newton-Okounkov 
+    bodies on $\overline{M_{0,n}}$. This talk is based on joint work with Deniz Genlik.
 
 
 - speaker: Dave Anderson
